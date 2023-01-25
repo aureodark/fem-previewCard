@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Product preview card component coding challenge](.images/screenshot.png)
+![Design preview for the Product preview card component coding challenge](./images/screenshot.png)
 
 ### Links
 
