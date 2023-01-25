@@ -12,8 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Product preview card component coding challenge](.images/screenshot.png)
+![Design preview for the Product preview card component coding challenge](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL](https://github.com/aureodark/fem-qrcode)
+- Live Site URL: [My live site URL](https://fem-qrcode-two.vercel.app/)
 
 ## My process
 
@@ -44,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aureo Fernandes](https://www.your-site.com)
+- Website - [Aureo Fernandes](https://aureofernandes.com/)
 - Frontend Mentor - [@aureodark](https://www.frontendmentor.io/profile/aureodark)
 - Twitter - [@aureodark](https://www.twitter.com/aureodark)
